@@ -55,6 +55,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mpeg1Source.Universal", "Me
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PolarTransform.Universal", "MediaExtensions\PolarTransform\PolarTransform.Universal\PolarTransform.Universal.vcxproj", "{30D6BA18-9672-419E-B1A9-89E532EB170C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{27A8670D-B9F8-4E90-AD52-FC7CB5FF24C8}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		MediaExtensions\Mpeg1Decoder\Mpeg1Decoder.Shared\Mpeg1Decoder.Shared.vcxitems*{22e450f0-0d40-420e-8c53-2bca80583d5e}*SharedItemsImports = 9
